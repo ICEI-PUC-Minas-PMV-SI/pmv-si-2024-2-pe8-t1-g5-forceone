@@ -1,4 +1,4 @@
-# Título do Projeto
+# Análise da ForceOne IT
 
 `CURSO: Sistemas de Informação`
 
@@ -6,25 +6,30 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este trabalho analisa a ForceOne IT, uma empresa de Belo Horizonte, Minas Gerais, especializada em soluções de infraestrutura na nuvem com a plataforma AWS. A empresa se destaca na migração de sistemas para a nuvem, suporte contínuo e personalização de soluções. Com o avanço da transformação digital e a crescente demanda por serviços na nuvem, a ForceOne IT está bem posicionada para aproveitar essas oportunidades. A análise detalha as forças, fraquezas, oportunidades e ameaças da empresa e oferece recomendações estratégicas baseadas em dados primários e secundários, com o objetivo de melhorar seus processos internos e contribuir para seu crescimento e sustentabilidade no competitivo mercado de TI.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Amanda Lima Carvalho Dal Col
+* Bernardo Campos Rodrigues
+* Douglas Fernandes de Carvalho Jardim
+* Eduardo Henrique Costa Lara
+* Thomas Henrique Lousada
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Profa. Simone Fernandes Queiroz
 
 # Planejamento
 
-Descrever o planejamento de cada etapa       
+| Etapa         | Atividades |
+|  :----:   | ----------- |
+| ETAPA 1         | Definição da organização e estudo do negócio e seu mercado <br> |
+| ETAPA 2         | Plano de Inteligência Competitiva (IC) <br> |
+| ETAPA 3         | Desenvolvimento de alternativas de soluções de SI <br> |
+| ETAPA 4        | Planejamento Estratégico de TI (PETI) <br>  |   
+| ETAPA 5        | Avaliação e Gestão Contínua de TI <br>  |   
 
 # Código
 
