@@ -26,7 +26,7 @@ Este trabalho analisa a ForceOne IT, uma empresa de Belo Horizonte, Minas Gerais
 | Etapa         | Atividades |
 |  :----:   | ----------- |
 | ETAPA 1         | [Definição da organização e estudo do negócio e seu mercado](src/g5-etapa1.pdf) <br> |
-| ETAPA 2         | Plano de Inteligência Competitiva (IC) <br> |
+| ETAPA 2         | [Plano de Inteligência Competitiva (IC)](src/g5-etapa2.pdf) <br> |
 | ETAPA 3         | Desenvolvimento de alternativas de soluções de SI <br> |
 | ETAPA 4        | Planejamento Estratégico de TI (PETI) <br>  |   
 | ETAPA 5        | Avaliação e Gestão Contínua de TI <br>  |   
