@@ -30,12 +30,7 @@ Este trabalho analisa a ForceOne IT, uma empresa de Belo Horizonte, Minas Gerais
 | ETAPA 3         | [Desenvolvimento de alternativas de soluções de SI](src/g5-etapa3.pdf) <br> |
 | ETAPA 4        | [Planejamento Estratégico de TI (PETI)](src/g5-etapa4.pdf) <br>  |   
 | ETAPA 5        | [Avaliação e Gestão Contínua de TI](src/g5-etapa5.pdf) <br>  |
-| ETAPA 5 PPT        | [Avaliação e Gestão Contínua de TI](src/g5-etapa5-ppt.pdf) <br>  |
-
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="src/g5-etapa5-ppt.pdf"> Apresentação da solução</a></li>
